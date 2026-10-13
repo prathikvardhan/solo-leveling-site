@@ -25,3 +25,7 @@ python3 -m http.server 8000
 Then open `http://localhost:8000`.
 
 The notification form is a front-end demo and does not submit or store email addresses. External images and video are provided by their respective hosts.
+
+## Publish with GitHub Pages
+
+The site is deployed automatically to GitHub Pages whenever changes are pushed to `main`. The first deployment may take a few minutes. In the repository settings, make sure **Pages → Build and deployment → Source** is set to **GitHub Actions**.
