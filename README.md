@@ -28,4 +28,9 @@ The notification form is a front-end demo and does not submit or store email add
 
 ## Publish with GitHub Pages
 
-The site is deployed automatically to GitHub Pages whenever changes are pushed to `main`. The first deployment may take a few minutes. In the repository settings, make sure **Pages → Build and deployment → Source** is set to **GitHub Actions**.
+The site is deployed automatically to GitHub Pages whenever changes are pushed to `main`. The first deployment may take a few minutes. In the repository settings, make sure **Pages → Build and deployment → Source** is set to **GitHub Actions**
+.
+
+
+## Open here :
+https://prathikvardhan.github.io/solo-leveling-site/
